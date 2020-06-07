@@ -25,7 +25,7 @@ SECRET_KEY = 'rkxt9o*no&xmwpk+@9v%*xsn$2qfsv9o@4j43hhye*$6=rp(ff'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.0.2.2', '127.0.0.1']
+ALLOWED_HOSTS = ['doctorbroom.pythonanywhere.com']
 
 
 # Application definition
