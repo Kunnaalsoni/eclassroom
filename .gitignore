@@ -1,4 +1,6 @@
 /__pycache__
 /.idea
 /venv
+/Classes/migrations/*
 db.sqlite3
+*.pyc
